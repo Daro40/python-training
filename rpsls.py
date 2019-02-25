@@ -1,5 +1,5 @@
 # GUI-based version of RPSLS
-
+# This is a possible solution for exercise n6 RPSLS of An Introduction to Interactive Programming in Python at coursera
 ###################################################
 # Student should add code where relevant to the following.
 
